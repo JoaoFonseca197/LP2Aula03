@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameInterfaces", "GameInterfaces\GameInterfaces.csproj", "{6B1A06C4-D39B-4307-91D8-CFB6021C0ABE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildingCollections", "BuildingCollections\BuildingCollections.csproj", "{A7EB9696-1F48-4DE1-AEC2-633912D46890}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{6B1A06C4-D39B-4307-91D8-CFB6021C0ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B1A06C4-D39B-4307-91D8-CFB6021C0ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B1A06C4-D39B-4307-91D8-CFB6021C0ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7EB9696-1F48-4DE1-AEC2-633912D46890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7EB9696-1F48-4DE1-AEC2-633912D46890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7EB9696-1F48-4DE1-AEC2-633912D46890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7EB9696-1F48-4DE1-AEC2-633912D46890}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
